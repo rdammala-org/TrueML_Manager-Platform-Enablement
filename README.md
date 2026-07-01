@@ -2,7 +2,7 @@
 
 Role-specific portfolio for Manager, Platform Enablement opportunities.
 
-**Live:** https://rdammala.github.io/TrueML_Manager-Platform-Enablement/
+**Live:** https://rdammala-org.github.io/TrueML_Manager-Platform-Enablement/
 
 ## Stack
 Vanilla HTML / CSS / JS · Google Fonts (Inter) · dark/light theme.
